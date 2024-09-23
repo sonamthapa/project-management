@@ -1,0 +1,7 @@
+my-app/node_modules
+server/node_modules
+my-app/dist/
+server/dist/
+my-app/.env
+server/.env
+my-app/.next/
