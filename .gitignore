@@ -1,7 +1,7 @@
-my-app/node_modules
+client/node_modules
 server/node_modules
-my-app/dist/
+client/dist/
 server/dist/
-my-app/.env
+client/.env
 server/.env
-my-app/.next/
+client/.next/
